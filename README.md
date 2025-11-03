@@ -1,16 +1,16 @@
-## Hi there 👋
+Currently working on various Go tools and libraries:
+- [environ](https://github.com/AnatoleLucet/environ) - Load and validate env variables
+- [tiq](https://github.com/AnatoleLucet/tiq) - Go-struct tags parser
+- [as](https://github.com/AnatoleLucet/as) - Any to x type conversion
+- [sudont](https://github.com/AnatoleLucet/sudont) - Never run a command as root
+- [sig](https://github.com/AnatoleLucet/sig) - *UPCOMING* Reactive signals and effects in Go
+- [ui](https://github.com/AnatoleLucet/ui) - *UPCOMING* Agnostic component lib for building UIs
+- [unamed](https://github.com/AnatoleLucet/unamed) - *UPCOMING* Reactive component framework to build TUIs
 
-<!--
-**AnatoleLucet/AnatoleLucet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Other work:
+- [docker-neovim](https://github.com/AnatoleLucet/docker-neovim) - Multi-arch and multi-distro Neovim OCI images
+- [easae](https://github.com/AnatoleLucet/easae) - Easy easings for any JavaScript runtime
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Past work:
+- [destiny](https://github.com/benawad/destiny) - Prettier for file structures
+- [zustand](https://github.com/pmndrs/zustand) - State management lib for React
