@@ -3,6 +3,7 @@ Currently working on various Go tools and libraries:
 - [tiq](https://github.com/AnatoleLucet/tiq) - Go-struct tags parser
 - [as](https://github.com/AnatoleLucet/as) - Any to x type conversion
 - [sudont](https://github.com/AnatoleLucet/sudont) - Never run a command as root
+- [tess](https://github.com/AnatoleLucet/tess) - *UPCOMING* UI layout engine in Go
 - [sig](https://github.com/AnatoleLucet/sig) - *UPCOMING* Reactive signals and effects in Go
 - [ui](https://github.com/AnatoleLucet/ui) - *UPCOMING* Agnostic component lib for building UIs
 - [unamed](https://github.com/AnatoleLucet/unamed) - *UPCOMING* Reactive component framework to build TUIs
