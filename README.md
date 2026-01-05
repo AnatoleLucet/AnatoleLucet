@@ -5,9 +5,9 @@ Currently working on various Go tools and libraries:
 - [sudont](https://github.com/AnatoleLucet/sudont) - Never run a command as root
 - [tess](https://github.com/AnatoleLucet/tess) - UI layout engine
 - [sig](https://github.com/AnatoleLucet/sig) - Reactive signals and effects in Go
-- [ui](https://github.com/AnatoleLucet/ui) - *UPCOMING* Agnostic component lib for building UIs
-- [tuile](https://github.com/AnatoleLucet/tuile) - *UPCOMING* Reactive component framework to build TUIs  (`ui` reconciler)
-- [unamed](https://github.com/AnatoleLucet/unamed) - *UPCOMING* Reactive component framework for the Web (`ui` reconciler)
+- [loom](https://github.com/AnatoleLucet/loom) - *UPCOMING* Golang reactive component framework
+- [loom-web](https://github.com/AnatoleLucet/loom/tree/main/renderers/web) - *UPCOMING* Web renderer for Loom
+- [loom-term](https://github.com/AnatoleLucet/loom/tree/main/renderers/term) - *UPCOMING* TUI renderer for Loom
 
 Other work:
 - [docker-neovim](https://github.com/AnatoleLucet/docker-neovim) - Multi-arch and multi-distro Neovim OCI images
