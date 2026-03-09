@@ -1,7 +1,7 @@
 Currently working on various Go tools and libraries:
-- [loom](https://github.com/AnatoleLucet/loom) - Golang reactive component framework
-- [loom-web](https://github.com/AnatoleLucet/loom/tree/main/renderers/web) - Web renderer for Loom
-- [loom-term](https://github.com/AnatoleLucet/loom/tree/main/renderers/term) - TUI renderer for Loom
+- [loom](https://github.com/loom-go/loom) - Golang reactive component framework
+- [loom-term](https://github.com/loom-go/term) - TUI renderer for Loom
+- [loom-web](https://github.com/loom-go/web) - Web renderer for Loom
 - [sig](https://github.com/AnatoleLucet/sig) - Reactive signals and effects in Go
 - [tess](https://github.com/AnatoleLucet/tess) - UI layout engine
 - [go-opentui](https://github.com/AnatoleLucet/go-opentui) - OpenTUI's Zig renderer bindings for Go
